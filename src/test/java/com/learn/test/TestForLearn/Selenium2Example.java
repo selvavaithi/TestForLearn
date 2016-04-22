@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Selenium2Example  {
+public class Selenium2Example {
 	
     public static void main(String[] args) {
         // Create a new instance of the Firefox driver
