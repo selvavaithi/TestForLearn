@@ -40,10 +40,11 @@
 			<version>20160212</version>
 		</dependency>
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.38</version>
+		    <groupId>mysql</groupId>
+		    <artifactId>mysql-connector-java</artifactId>
+		    <version>8.0.20</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
